@@ -1,2 +1,2 @@
 # Portfolio Project
-Portfolio project for freecodecamp.org HTML CSS module
+Portfolio project for Responsive Web Design Course on freecodecamp.org  
