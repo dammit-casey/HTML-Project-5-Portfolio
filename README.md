@@ -1,2 +1,2 @@
-# Portfolio Project
+# portfolio-project
 This project is for the Responsive Web Design module on freecodecamp.org  
